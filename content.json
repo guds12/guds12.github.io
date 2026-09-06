@@ -1,0 +1,144 @@
+{
+  "name": "Srikanth Guduri",
+  "role": "Senior Software Engineer",
+  "headline": "Java, cloud, and full-stack engineering.",
+  "intro": "I build reliable backend services, data pipelines, and web applications with Java, Spring Boot, AWS, and React. Explore my experience and get in touch to discuss opportunities on your team.",
+  "about": "I\u2019m a senior software engineer with experience in government and retail platforms. My work spans backend architecture, cloud infrastructure, data processing, and full-stack development. I take features from data modeling and API design through implementation, testing, and production support.",
+  "email": "srikanth18gsk@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/srikanthgsk",
+  "github": "https://github.com/guds12",
+  "photo": "/images/srikanth.jpg",
+  "photoAlt": "Srikanth Guduri outdoors",
+  "resume": "/Srikanth_Guduri.docx",
+  "skills": [
+    {
+      "category": "Backend",
+      "items": [
+        "Java 8 / 11 / 17",
+        "Spring Boot",
+        "Spring Security",
+        "REST APIs",
+        "Microservices",
+        "Node.js"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Micro Frontends",
+        "WebSockets"
+      ]
+    },
+    {
+      "category": "Cloud & data",
+      "items": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "Apache Spark",
+        "Databricks",
+        "Kafka",
+        "PostgreSQL",
+        "Oracle"
+      ]
+    },
+    {
+      "category": "Quality",
+      "items": [
+        "JUnit 5",
+        "Mockito",
+        "REST Assured",
+        "SonarQube",
+        "OpenTelemetry",
+        "Grafana",
+        "Splunk",
+        "CloudWatch"
+      ]
+    },
+    {
+      "category": "AI",
+      "items": [
+        "AI-assisted coding",
+        "AI-assisted code review",
+        "Refactoring",
+        "Test acceleration",
+        "Root-cause analysis",
+        "AI output validation",
+        "Responsible AI",
+        "Secure AI usage"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "NYC Office of Technology and Innovation",
+      "dates": "Aug 2023 \u2014 Present",
+      "location": "New York, NY",
+      "summary": "Building Java services and citizen-facing experiences for the NYC Business Portal.",
+      "highlights": [
+        "Developed Spring Boot REST APIs for licensing, permits, and inspections, with Kafka pipelines connecting workflow events.",
+        "Built React and TypeScript features and independently deployable Micro Frontends.",
+        "Delivered Spark and Databricks data pipelines with AWS infrastructure provisioned through Terraform.",
+        "Supported production reliability through monitoring, automated tests, and responsible AI-assisted engineering."
+      ]
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "Michelin",
+      "dates": "Feb 2021 \u2014 Jul 2022",
+      "location": "Hyderabad, India",
+      "summary": "Developed retail platform services for product catalogs, inventory, and personalization.",
+      "highlights": [
+        "Built real-time inventory pipelines with Kafka, SNS, SQS, Node.js, and WebSockets.",
+        "Processed product and pricing datasets using Spark and Databricks.",
+        "Deployed containerized services on AWS ECS and EKS and added distributed tracing and automated quality checks."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Redvue Technologies Pvt Ltd",
+      "dates": "Dec 2019 \u2014 Jan 2021",
+      "location": "Chennai, India",
+      "summary": "Developed Java backend applications, REST APIs, and integrated web interfaces.",
+      "highlights": [
+        "Built account management, data processing, and transaction workflows.",
+        "Implemented authentication and role-based authorization with Spring Security.",
+        "Contributed SQL queries, JUnit tests, and Jenkins delivery pipelines."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "issuer": "Amazon Web Services",
+      "title": "AWS Certified Developer \u2013 Associate",
+      "code": "DVA-C02",
+      "url": ""
+    },
+    {
+      "issuer": "Microsoft",
+      "title": "Azure AI Apps and Agents Developer Associate",
+      "code": "AI-103",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. in Computer Science",
+      "school": "University of Central Missouri",
+      "date": "December 2023"
+    },
+    {
+      "degree": "B.Tech. in Computer Science",
+      "school": "KL Deemed University",
+      "date": "May 2020"
+    }
+  ],
+  "additional": []
+}

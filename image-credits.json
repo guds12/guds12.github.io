@@ -1,0 +1,73 @@
+[
+  {
+    "file": "city.jpg",
+    "title": "New York City skyline at dusk",
+    "author": "Bruce Emmerling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:The_New_York_City_Skyline_at_Dusk.jpg",
+    "changes": "Resized and cropped for display. This image adaptation is also CC BY-SA 4.0."
+  },
+  {
+    "file": "detail.jpg",
+    "title": "NOIRLab HQ server racks",
+    "author": "NOIRLab/NSF/AURA/T. Slovinsk\u00fd",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0375-CC).jpg",
+    "changes": "Resized, cropped and darkened for text readability."
+  },
+  {
+    "title": "Coding",
+    "author": "Goran Ivos",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Coding_(Unsplash).jpg",
+    "changes": "Resized and JPEG optimized for web display. Cropped to fit image frames.",
+    "file": "code.jpg"
+  },
+  {
+    "title": "Work space",
+    "author": "NordWood Themes",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Work_space_(Unsplash).jpg",
+    "changes": "Resized and JPEG optimized for web display. Cropped to fit image frames.",
+    "file": "workspace.jpg"
+  },
+  {
+    "title": "Optic fiber",
+    "author": "Henrique Vicente",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "source": "https://commons.wikimedia.org/wiki/File:Optic_fiber.jpg",
+    "changes": "Resized and JPEG optimized for web display. Cropped to fit image frames.",
+    "file": "network.jpg"
+  },
+  {
+    "file": "planning.jpg",
+    "path": "/private/tmp/portfolio-sdlc/planning.jpg",
+    "title": "Software development retrospective",
+    "author": "Fabrice Florin, Aaron Arcos",
+    "source": "https://commons.wikimedia.org/wiki/File:Media_Viewer_Launch_Retrospective_Whiteboard_-_April_11_2014_02.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and JPEG compressed; cropped to fit image frames. The displayed adaptation uses the same ShareAlike license.",
+    "alt": "Software team discussing a project development timeline on a whiteboard",
+    "width": 1600,
+    "height": 951
+  },
+  {
+    "file": "testing.jpg",
+    "path": "/private/tmp/portfolio-sdlc/testing.jpg",
+    "title": "Java development with JUnit tests",
+    "author": "Joonspoon",
+    "source": "https://commons.wikimedia.org/wiki/File:Programmer_writing_code_with_Unit_Tests.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "JPEG compressed; cropped to fit image frames. The displayed adaptation uses the same ShareAlike license.",
+    "alt": "Programmer writing Java code with JUnit tests at a desktop computer",
+    "width": 1404,
+    "height": 936
+  }
+]
