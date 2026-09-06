@@ -4,12 +4,12 @@
   "headline": "Java, cloud, and full-stack engineering.",
   "intro": "I build reliable backend services, data pipelines, and web applications with Java, Spring Boot, AWS, and React. Explore my experience and get in touch to discuss opportunities on your team.",
   "about": "I\u2019m a senior software engineer with experience in government and retail platforms. My work spans backend architecture, cloud infrastructure, data processing, and full-stack development. I take features from data modeling and API design through implementation, testing, and production support.",
-  "email": "srikanth18gsk@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/srikanthgsk",
+  "email": "sguduri997@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/guds12/",
   "github": "https://github.com/guds12",
-  "photo": "/images/srikanth.jpg",
-  "photoAlt": "Srikanth Guduri outdoors",
-  "resume": "/Srikanth_Guduri.docx",
+  "photo": "/images/srikanth-portrait.jpeg",
+  "photoAlt": "Srikanth Guduri smiling indoors",
+  "resume": "/Srikanth_Guduri.pdf",
   "skills": [
     {
       "category": "Backend",
@@ -140,5 +140,6 @@
       "date": "May 2020"
     }
   ],
-  "additional": []
+  "additional": [],
+  "phone": "9137429655"
 }
