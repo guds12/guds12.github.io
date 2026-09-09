@@ -9,7 +9,7 @@
   "github": "https://github.com/guds12",
   "photo": "/images/srikanth-portrait.jpeg",
   "photoAlt": "Srikanth Guduri smiling indoors",
-  "resume": "/Srikanth_Guduri.pdf",
+  "resume": "/Srikanth_Resume.pdf",
   "skills": [
     {
       "category": "Backend",
@@ -103,14 +103,16 @@
     },
     {
       "title": "Software Engineer",
-      "company": "Redvue Technologies Pvt Ltd",
+      "company": "Paytm",
       "dates": "Dec 2019 \u2014 Jan 2021",
       "location": "Chennai, India",
-      "summary": "Developed Java backend applications, REST APIs, and integrated web interfaces.",
+      "summary": "Built secure account-management and transaction-processing services for a high-volume fintech platform.",
       "highlights": [
-        "Built account management, data processing, and transaction workflows.",
-        "Implemented authentication and role-based authorization with Spring Security.",
-        "Contributed SQL queries, JUnit tests, and Jenkins delivery pipelines."
+        "Built Spring Boot REST APIs supporting more than 10,000 daily user operations and secure financial-data access for over 500 users.",
+        "Optimized Oracle and SQL Server queries, reducing reporting execution time by 45% and improving end-of-day batch performance.",
+        "Implemented Spring Security authentication and role-based authorization across more than eight microservices.",
+        "Automated Maven, Git, and Jenkins deployments, reducing manual deployment time from two hours to 15 minutes.",
+        "Created comprehensive JUnit tests and testing standards that improved code quality and reduced production defects."
       ]
     }
   ],
